@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "115417542295",
+    "firebase_url": "https://chat-796f7.firebaseio.com",
+    "project_id": "chat-796f7",
+    "storage_bucket": "chat-796f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115417542295:android:dbc9f57efd88939d",
+        "android_client_info": {
+          "package_name": "com.example.kemal.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115417542295-ai945t655a3tc5k2tppgvvnb1g29tqmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kemal.chat",
+            "certificate_hash": "c0df46e1525b8457df4506d35f8bbc356db2ed35"
+          }
+        },
+        {
+          "client_id": "115417542295-63lckup5gifp82vfpb5tbsph8k9oe7sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4dYTQRV_pjhaMr6HTFqLpkFd1TjWH1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115417542295-63lckup5gifp82vfpb5tbsph8k9oe7sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
